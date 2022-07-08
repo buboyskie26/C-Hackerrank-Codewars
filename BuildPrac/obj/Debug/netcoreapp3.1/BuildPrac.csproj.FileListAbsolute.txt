@@ -1,0 +1,14 @@
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.exe
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.deps.json
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.runtimeconfig.json
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.runtimeconfig.dev.json
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.dll
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\bin\Debug\netcoreapp3.1\BuildPrac.pdb
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.csproj.AssemblyReference.cache
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.AssemblyInfoInputs.cache
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.AssemblyInfo.cs
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.csproj.CoreCompileInputs.cache
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.dll
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.pdb
+C:\Users\Sirios\source\repos\BuildPrac\BuildPrac\obj\Debug\netcoreapp3.1\BuildPrac.genruntimeconfig.cache
